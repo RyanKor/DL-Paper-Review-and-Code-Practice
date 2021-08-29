@@ -5,4 +5,6 @@
 
 ## 리뷰 진행 논문
 
+- (진행 예정) [09_man_is_to_computer_programmer_as_women_is_to_homemaker](./dl_paper/coursera/rnn/09_man_is_to_computer_programmer_as_women_is_to_homemaker.pdf)
+
 ## 실습 코드
