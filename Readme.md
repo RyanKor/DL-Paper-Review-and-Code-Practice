@@ -8,3 +8,9 @@
 - (진행 예정) [09_man_is_to_computer_programmer_as_women_is_to_homemaker](./dl_paper/coursera/rnn/09_man_is_to_computer_programmer_as_women_is_to_homemaker.pdf)
 
 ## 실습 코드
+
+
+## 그 외 논문을 읽어볼 수 있는 사이트
+
+- [rbt-papers](https://github.com/wnzhang/rtb-papers)
+- [Applied ML](https://github.com/eugeneyan/applied-ml/blob/main/README.md)
