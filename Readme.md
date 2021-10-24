@@ -9,6 +9,8 @@
 
 ## 실습 코드
 
+- [ResNet50](./code_practice/resnet50/)
+
 
 ## 그 외 논문을 읽어볼 수 있는 사이트
 
